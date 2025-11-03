@@ -13,7 +13,7 @@
 主要包含 ROS 系统实验环境搭建、依赖安装方法、以及课程相关实验代码。
 
 > ⚙️ **推荐环境：**
-> - Ubuntu 18.04 + ROS Melodic（课程官方推荐）  
+> - Ubuntu 18.04 + ROS Melodic（实验课老师推荐）  
 > - 若使用 Ubuntu 20.04 + ROS Noetic，在安装 `turtlebot2` 时可能出现依赖包缺失问题。  
 >   本项目的 `catkin_ws/src` 文件夹中提供了完整的依赖和实验代码以供参考。
 
