@@ -115,7 +115,7 @@ catkin_ws/
 
 **Maintainer:** [Post-b](https://github.com/Post-b)
 **License:** MIT
-**Repository:** [CUMT AI System Practice](https://github.com/Post-b/CUMT_AI)
+**Repository:** [CUMT AI System Practice](https://github.com/Post-b/CUMT_AI_ROS)
 
 ---
 
